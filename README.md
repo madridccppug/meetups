@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## C/C++ Madrid User Group
 
-You can use the [editor on GitHub](https://github.com/madridccppug/meetups/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![logo](assets/madridccppug.jpeg) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Presentations and Materials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Slides, presentations and reference material from our meetings.  
+Note that not all presentation slides are optimized for reading without the accompanying talk.
 
-```markdown
-Syntax highlighted code block
+**2018**
 
-# Header 1
-## Header 2
-### Header 3
+## Find Us
 
-- Bulleted
-- List
+- [Meetup](https://www.meetup.com/Madrid-C-Cpp/)
+- [GitHub](https://github.com/madridccppug)
+- [Slack](https://cpplang.slack.com/messages/C9TDZJWCC)
+- [Twitter](https://twitter.com/madridccppug)
 
-1. Numbered
-2. List
+## Contact Us
+- [Javier G. Sogo](mailto:jgsogo@gmail.com) :: [Twitter](https://twitter.com/jgsogo)
+- Manu Sánchez :: [Twitter](https://twitter.com/Manu343726)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madridccppug/meetups/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
