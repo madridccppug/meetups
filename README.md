@@ -9,6 +9,7 @@ Slides, presentations and reference material from our meetings.
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
 **2018**
+- [Hagamos bibliotecas fáciles de usar (Indizen)](2018-10-25_Indizen_Hagamos-bibliotecas-faciles-de-usar) 25 oct 2018
 
 ## Find Us
 
