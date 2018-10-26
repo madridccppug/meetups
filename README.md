@@ -22,3 +22,11 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Javier G. Sogo](mailto:jgsogo@gmail.com) :: [Twitter](https://twitter.com/jgsogo)
 - Manu Sánchez :: [Twitter](https://twitter.com/Manu343726)
 
+Or use [this form](https://madridcc.typeform.com/to/R7QcNa) to reach us!
+
+## We Want Your Talk!
+Madrid C/C++ User Group is build by and for the community, we need **you** to keep
+the ball rolling. Talks, workshops, games,... any activity or format you could imagine
+will be welcome, and we will do our best to organize it and help you.  
+
+Hope to see you soon... at the stage!
