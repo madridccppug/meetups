@@ -3,7 +3,7 @@
 
 ## Contents:
 - [Welcome](welcome.pdf), Javier G. Sogo
-- [Lightning#1](), Diego Rodríguez-Losada
+- [Almost Always Auto](Almost.Always.Auto.pdf), Diego Rodríguez-Losada
 - [Lightning#2](), Manu Sánchez
 - [Hagamos bibliotecas fáciles de usar](Madrid_C_Cpp_2018_10_25_MartinKR_Bibliotecas_16_9.pdf), Martín Knoblauch
 
