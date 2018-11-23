@@ -11,5 +11,3 @@
 We are grateful to the sponsors of this meeting:  
 
 <img src="../assets/sponsor-logos/liferay.png" alt="liferay" width="200"/>
-
-![Liferay](../assets/sponsor-logos/liferay.png =250x)  
