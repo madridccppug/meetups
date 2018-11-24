@@ -13,6 +13,7 @@ Note that not all presentation slides are optimized for reading without the acco
 - [Hagamos bibliotecas fáciles de usar (Indizen)](2018-10-25_Indizen_Hagamos-bibliotecas-faciles-de-usar) 25 oct 2018
 - [SaaI: Sublime as an IDE (Indizen)](2018-09-27_IBM_SublimeTextIDE) 27 sept 2018
 - [Calculate (Indizen)](2018-07-26_Indizen_Calculate) 26 jul 2018
+- [Madrid C/C++ User Group (La Nave)](2018-06-14_LaNave_Comunidad) 14 jun 2018
 
 ## Find Us
 
