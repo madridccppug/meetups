@@ -1,6 +1,6 @@
 
-# Hagamos bibliotecas fáciles de usar
-2018-10-25 - Indizen
+# Duck Typing en C++
+2018-11-22 - Liferay
 
 ## Contents:
 - [Welcome](welcome.pdf), Javier G. Sogo
