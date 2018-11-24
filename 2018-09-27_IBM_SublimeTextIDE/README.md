@@ -3,8 +3,8 @@
 
 ## Contents:
 - [Welcome](welcome.pdf), Javier G. Sogo
-- [[Trailer] Hagamos bibliotecas fáciles de usar](), Martín Knoblauch
-- [SaaI: Sublime as an IDE](), Raúl Huertas
+- [Trailer] Hagamos bibliotecas fáciles de usar, Martín Knoblauch
+- SaaI: Sublime as an IDE, Raúl Huertas
 
 We are grateful to the sponsors of this meeting:  
 
