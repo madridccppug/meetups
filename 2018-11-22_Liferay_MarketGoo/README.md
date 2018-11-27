@@ -1,5 +1,5 @@
 
-# MarketGoo ❤ C++
+# MarketGoo ❤️ C++
 2018-11-22 - Liferay
 
 ## Contents:
