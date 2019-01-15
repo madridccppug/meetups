@@ -1,6 +1,6 @@
 
 # MarketGoo ❤️ C++
-2018-11-22 - Liferay
+2018-11-22 - Liferay [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" alt="youtube" width="24">](https://youtu.be/OhqfsPgi4zY)
 
 ## Contents:
 - [Welcome](welcome.pdf), Javier G. Sogo
