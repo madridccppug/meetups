@@ -1,4 +1,3 @@
-
 # MarketGoo ❤️ C++
 2018-11-22 - Liferay
 
@@ -8,8 +7,8 @@
 - [Duck Typing en C++](https://newlawrence.github.io/Talks/181122_duck_typing/duck_typing.slides.html#/), Alberto Lorenzo Márquez
 - [MarketGoo ❤️ C++](MarketGoo.Loves.Cpp.pdf), José Miguel Pérez
 
-## Social media:
-[<img src="../assets/brand-logos/yt_icon_rgb.svg" alt="youtube" width="64"/>](https://youtu.be/OhqfsPgi4zY)
+## Social:
+[<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="36"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/256340508/) [<img src="../assets/brand-logos/youtube.svg" alt="youtube" height="36"/>](https://youtu.be/OhqfsPgi4zY)
 
 We are grateful to the sponsors of this meeting:  
 

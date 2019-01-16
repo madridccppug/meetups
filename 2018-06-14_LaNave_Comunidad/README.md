@@ -7,6 +7,9 @@
 - Conan Quiz, Diego Rodríguez-Losada
 - Introducción a Conan, Diego Rodríguez-Losada
 
+## Social:
+[<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="36"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/251227885/)
+
 We are grateful to the sponsors of this meeting:  
 
 <img src="../assets/sponsor-logos/jfrog_conan.png" alt="JFrog | Conan" width="200"/>
