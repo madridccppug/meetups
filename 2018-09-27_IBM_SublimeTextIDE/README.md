@@ -10,4 +10,4 @@
 
 We are grateful to the sponsors of this meeting:  
 
-<img src="../assets/sponsor-logos/ibm_research.jpg" alt="IBM Research" width="200"/>
+[<img src="../assets/sponsor-logos/ibm_research.jpg" alt="IBM Research" width="200"/>](https://www.ibm.com/ibm/clientcenter/madrid/)

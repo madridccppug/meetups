@@ -11,4 +11,4 @@
 
 We are grateful to the sponsors of this meeting:  
 
-<img src="../assets/sponsor-logos/liferay.png" alt="liferay" width="200"/>
+[<img src="../assets/sponsor-logos/liferay.png" alt="liferay" width="200"/>](https://www.liferay.com/es/home)

@@ -11,5 +11,4 @@
 
 We are grateful to the sponsors of this meeting:  
 
-<img src="../assets/sponsor-logos/jfrog_conan.png" alt="JFrog | Conan" width="200"/>
-  
+[<img src="../assets/sponsor-logos/jfrog_conan.png" alt="JFrog | Conan" width="200"/>](http://www.lanavemadrid.com/)

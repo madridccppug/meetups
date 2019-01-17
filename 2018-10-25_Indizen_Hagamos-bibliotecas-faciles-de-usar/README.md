@@ -11,4 +11,4 @@
 
 We are grateful to the sponsors of this meeting:  
 
-![Indizen](../assets/sponsor-logos/indizen.png)  
+[<img src="../assets/sponsor-logos/indizen.png" alt="Indizen" width="200"/>](https://indizen.com/)
