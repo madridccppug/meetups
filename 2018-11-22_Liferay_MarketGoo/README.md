@@ -7,8 +7,7 @@
 - [Duck Typing en C++](https://newlawrence.github.io/Talks/181122_duck_typing/duck_typing.slides.html#/), Alberto Lorenzo Márquez
 - [MarketGoo ❤️ C++](MarketGoo.Loves.Cpp.pdf), José Miguel Pérez
 
-## Social:
-[<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="36"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/256340508/) [<img src="../assets/brand-logos/youtube.svg" alt="youtube" height="36"/>](https://youtu.be/OhqfsPgi4zY)
+### Related content: [<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="20"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/256340508/) [<img src="../assets/brand-logos/youtube.svg" alt="youtube" height="20"/>](https://youtu.be/OhqfsPgi4zY)
 
 We are grateful to the sponsors of this meeting:  
 
