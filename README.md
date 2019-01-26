@@ -8,6 +8,9 @@
 Slides, presentations and reference material from our meetings.  
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
+**2019**
+- [No littering (Google for Startups)](2019-01-22_Google_Stroustrup) 22 ene 2019
+
 **2018**
 - [Bare metal programming (Indizen)](2018-12-13_Indizen_Bare-metal-programming) 13 dec 2018
 - [MarketGoo ❤️ C++ (Liferay)](2018-11-22_Liferay_MarketGoo) 22 nov 2018
