@@ -2,7 +2,7 @@
 2019-02-21 - Tuenti
 
 ## Contents:
-- [Welcome](welcome.pdf) `[ES]`, Javier G. Sogo [&#x25b6;](https://youtu.be/Fc4mAI5cDUQ)
+- [Welcome](welcome.pdf) `[ES]`, Javier G. Sogo [&#x25b6;](https://youtu.be/Fc4mAI5cDUQ?t=1)
 - [Merge semántico para C++](plasticscm.pdf) `[ES]`, Míryam Gómez & Violeta Sánchez [&#x25b6;](https://youtu.be/Fc4mAI5cDUQ?t=260)
 - [JSON RPC with C++ static reflection](json_rpc.pdf) `[ES]`, Manu Sánchez [&#x25b6;](https://youtu.be/Fc4mAI5cDUQ?t=3239)
 
