@@ -6,7 +6,7 @@
 - ABI, Trick or Treat `[ES]`, Javier G. Sogo
 - [Algoritmos modernos de ordenación](algoritmos_modernos_de_ordenacion.pdf) `[ES]`, Francisco José Tapia
 
-### Related content: [<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="20"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/256976147/)
+### Related content: [<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="20"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/259592860/)
 
 We are grateful to the sponsors of this meeting:  
 
