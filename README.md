@@ -11,6 +11,7 @@ Note that not all presentation slides are optimized for reading without the acco
 **2019**
 - [C++ en un motor de videojuegos: Godot (Indizen)](2019-11-21_Indizen_Godot) 21 nov 2019
 - [Next generation unit testing - Build deterministas (GO Madrid)](2019-10-22_GoMadrid_Next-generation-unit-testing) 22 oct 2019
+- [Algoritmos de ordenación (Indizen)](2019-04-11_Indizen_Algoritmos-de-ordenacion) 11 abr 2019
 - [Taller: Bot de telegram en C++ (Tuenti)](2019-03-21_Tuenti_Telegram-bot) 21 mar 2019
 - [Tooling: merge semántico para C++ (Tuenti)](2019-02-21_Tuenti_PlasticSCM) 21 feb 2019
 - [No littering (Google for Startups)](2019-01-22_Google_Stroustrup) 22 ene 2019
