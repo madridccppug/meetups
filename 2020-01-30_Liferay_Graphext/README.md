@@ -6,7 +6,7 @@
 - [Qt for Webassembly]() `[ES]`, Jesús Fernández
 - [Cómo acelerar la web con C++ y WebAssembly]() `[ES]`, Juan Morales y Miguel Cantón
 
-### Related content: [<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="20"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/266791791/)
+### Related content: [<img src="../assets/brand-logos/meetup.svg" alt="meetup" height="20"/>](https://www.meetup.com/es-ES/Madrid-C-Cpp/events/266791791/) [<img src="../assets/brand-logos/youtube.svg" alt="youtube" height="20"/>](https://youtu.be/zflP9jHAYkY)
 
 We are grateful to the sponsors of this meeting:
 
