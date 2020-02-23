@@ -2,6 +2,11 @@
 
 ![logo](assets/madridccppug.png) 
 
+Follow us: 
+[Twitter](https://twitter.com/madridccppug) | 
+[Meetup](https://www.meetup.com/Madrid-C-Cpp/) |
+[Slack](https://cpplang.slack.com/messages/C9TDZJWCC) |
+[GitHub](https://github.com/madridccppug)
 
 ## Presentations and Materials
 
@@ -27,13 +32,6 @@ Note that not all presentation slides are optimized for reading without the acco
 - [SaaI: Sublime as an IDE (IBM)](2018-09-27_IBM_SublimeTextIDE) 27 sept 2018
 - [Calculate (Indizen)](2018-07-26_Indizen_Calculate) 26 jul 2018
 - [Madrid C/C++ User Group (La Nave)](2018-06-14_LaNave_Comunidad) 14 jun 2018
-
-## Find Us
-
-- [Meetup](https://www.meetup.com/Madrid-C-Cpp/)
-- [GitHub](https://github.com/madridccppug)
-- [Slack](https://cpplang.slack.com/messages/C9TDZJWCC)
-- [Twitter](https://twitter.com/madridccppug)
 
 ## Contact Us
 - [Javier G. Sogo](mailto:jgsogo@gmail.com) :: [Twitter](https://twitter.com/jgsogo)
