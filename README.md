@@ -10,7 +10,7 @@ Note that not all presentation slides are optimized for reading without the acco
 
 **2020**
 - [Conan, C++ y el elefante en la habitación](2020-02-20_IBM_Conan-Cpp-Elephant) 20 feb 2020
-- [Cómo acelerar la web con C++ y WebAssembly]() 30 ene 2020
+- [Cómo acelerar la web con C++ y WebAssembly](2020-01-30_Liferay_Graphext) 30 ene 2020
 
 **2019**
 - [C++ en un motor de videojuegos: Godot (Indizen)](2019-11-21_Indizen_Godot) 21 nov 2019
