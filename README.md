@@ -1,6 +1,6 @@
 ## C/C++ Madrid User Group
 
-![logo](assets/madridccppug.jpeg) 
+![logo](assets/madridccppug.png) 
 
 
 ## Presentations and Materials
