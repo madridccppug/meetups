@@ -8,6 +8,10 @@
 Slides, presentations and reference material from our meetings.  
 Note that not all presentation slides are optimized for reading without the accompanying talk.
 
+**2020**
+- [Conan, C++ y el elefante en la habitación](2020-02-20_IBM_Conan-Cpp-Elephant) 20 feb 2020
+- [Cómo acelerar la web con C++ y WebAssembly]() 30 ene 2020
+
 **2019**
 - [C++ en un motor de videojuegos: Godot (Indizen)](2019-11-21_Indizen_Godot) 21 nov 2019
 - [Next generation unit testing - Build deterministas (GO Madrid)](2019-10-22_GoMadrid_Next-generation-unit-testing) 22 oct 2019
